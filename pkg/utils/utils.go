@@ -4,7 +4,7 @@ import (
 	"crypto/rand"
 	"encoding/hex"
 
-	"github.com/Firdavs2002/crud/pkg/types"
+	"github.com/Eydzhpee08/crud/pkg/types"
 )
 
 //GenerateTokenStr ...
